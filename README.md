@@ -21,11 +21,7 @@
 
 ### Wokwi
 
-[DHT22(Temperature, Humidity)](https://wokwi.com/projects/383461346576112641)
 
-[toy](https://wokwi.com/projects/383461757932533761)
-
-[feeding](https://wokwi.com/projects/383463571673628673)
 <hr/>
 
 ![슬라이드4](https://github.com/user-attachments/assets/d59eb9cb-8ed6-47c2-94a3-d2005a3d627b)
