@@ -13,6 +13,7 @@
 
 ### 사용 기술:
 - Wokwi(ESP32, DHT22, RGB light)
+- Thingsboard(대시보드)
 - Python
 - MQTT
 
