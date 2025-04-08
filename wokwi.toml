@@ -1,3 +1,0 @@
-projectId = "383461346576112641"  # 본인의 실제 프로젝트 ID
-expectText = "Pet Feeder Ready"   # 시뮬레이션에서 출력되어야 하는 문자열
-timeout = 10000                   # 시뮬레이션 타임아웃 (ms)
