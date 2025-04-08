@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "author": "Soeun Kim",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "board-esp32-devkit-c-v4", "id": "esp", "top": 0, "left": 0, "attrs": {} },
+    {
+      "type": "wokwi-rgb-led",
+      "id": "rgb1",
+      "top": -101.6,
+      "left": -133.3,
+      "attrs": { "common": "cathode" }
+    }
+  ],
+  "connections": [
+    [ "esp:TX", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX", "$serialMonitor:TX", "", [] ],
+    [ "esp:GND.1", "rgb1:COM", "black", [ "h0" ] ],
+    [ "rgb1:R", "esp:27", "red", [ "v0" ] ],
+    [ "rgb1:G", "esp:26", "green", [ "v0" ] ],
+    [ "rgb1:B", "esp:25", "blue", [ "v0" ] ]
+  ],
+  "dependencies": {}
+}
