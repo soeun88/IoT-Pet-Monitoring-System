@@ -1,1 +1,5 @@
-projectId = "383463571673628673"
+[mcu]
+type = "esp32"
+
+[files]
+main = "main.py"
