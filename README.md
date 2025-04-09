@@ -20,7 +20,9 @@
 <hr/>
 
 ### Wokwi
-
+[DHT22](https://wokwi.com/projects/383461346576112641)
+[feeding](https://wokwi.com/projects/383463571673628673)
+[Toy](https://wokwi.com/projects/383461757932533761)
 
 <hr/>
 
