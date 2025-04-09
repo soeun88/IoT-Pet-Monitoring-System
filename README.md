@@ -1,4 +1,4 @@
-# IoT-Pet-Monitoring-System
+# IoT-Pet-Monitoring-System🐾
 ### 프로젝트:
 -  IoT 플랫폼 기반 펫 모니터링 시스템
 
@@ -19,10 +19,13 @@
 
 <hr/>
 
-### Wokwi
+### Wokwi🔗
 [DHT22](https://wokwi.com/projects/383461346576112641)
+
 [feeding](https://wokwi.com/projects/383463571673628673)
+
 [Toy](https://wokwi.com/projects/383461757932533761)
+
 
 <hr/>
 
